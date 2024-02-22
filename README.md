@@ -9,7 +9,7 @@
 <div align="center">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ashish2024">
-<img align="left" src="https://komarev.com/ghpvc/?username=ashish2024&label=PROFILE+VIEWS">
+<img align="left" src="https://komarev.com/ghpvc/?username=ashish2024&style=flat-square)">
 </div>
 
 
