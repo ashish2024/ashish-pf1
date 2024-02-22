@@ -15,3 +15,12 @@
 
 <br>
 <br>
+
+<h1 align="center">
+  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=25&pause=1000&color=C3DAE3E0&background=06021000&center=true&multiline=true&random=false&width=440&height=79&lines=Hey+!!+I+m+Ashish;+Nice+to+meet+you)](https://git.io/typing-svg)">
+  </a>
+</h1>
+
+
+<br>
