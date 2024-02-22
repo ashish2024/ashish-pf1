@@ -76,7 +76,7 @@
 
   <div align=center>
     <a href="https://github.com/ashish2024?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2024&layout=donut">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2024&&size_weight=27&layout=donut&theme=blue-navy&bg_color=20232a&hide_border=true" width="100%">
     </a>
   </div>
   
