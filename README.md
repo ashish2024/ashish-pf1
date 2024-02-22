@@ -32,6 +32,26 @@
 
 <br>
 <br>
-
-
-<br>
+<!-- Intro -->
+<h3 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br>
+  <br>
+  I'm Ashish Sonkaria, 
+  <br>
+  <br>
+  🔬 I'm currently pursuing my Bachelor degree from Vel Tech University .
+  <br>
+  <!--<br>
+  💻 I love writing code and learn anythings about it.
+  <br>
+  <br>
+  📚 I’m currently learning how to build Dynamic Website.
+  <br>
+  <br>-->
+  💬 Ask me anything about from <a href="https://github.com/ashish2024/ashish-pf1/issues" title="Issues">➡️</a>
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: ashish21152@gmail.com"> ✉️.
+</h3>
