@@ -67,7 +67,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=ashish2024&theme=blue-navy&hide_border=true&card_width=500"/>
     </a>
     <a href="https://github.com/ashish2024?tab=repositories">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ashish2024&theme=holi&show_icons=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ashish2024&theme=dark&show_icons=true" />
     </a>
   </div>
   
