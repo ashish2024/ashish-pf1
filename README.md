@@ -55,3 +55,34 @@
   <br>
   📫 How to reach me: <a href="mailto: ashish21152@gmail.com"> ✉️.
 </h3>
+
+!-- STATUS -->
+<h2 align="center"> Status </h2>
+
+<br>
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/ashish2024?tab=repositories">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=ashish2024&theme=blue-navy&hide_border=true&card_width=500"/>
+    </a>
+    <a href="https://github.com/ashish2024?tab=repositories">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ashish2024&theme=holi&show_icons=true" />
+    </a>
+  </div>
+  
+<br><br><br><br>
+<br><br><br><br>
+
+  <div align=center>
+    <a href="https://github.com/ashish2024?tab=repositories">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2024&layout=donut">
+    </a>
+  </div>
+  
+  <br>
+  <br>
+  <br>
+
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=hacker-404-error&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
+</p>
