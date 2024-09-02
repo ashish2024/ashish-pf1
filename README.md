@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Ashish !
 
-👩🏻‍🎓 Studied [Computer Science] at Veltech University,Chennai <br/>
+👩🏻‍🎓 Studied [Computer Science] at Veltech University,Chennai. <br/>
 
-💭 Currently learning about Data analytics and data vizualization.
+💭 Currently learning about Data analytics and Data vizualization.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2024&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashish2024/github-readme-stats)
