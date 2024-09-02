@@ -9,7 +9,7 @@
 
 👩🏻‍🎓 Studied [Computer Science] at Veltech University, Chennai. <br/>
 
-💭 Currently learning about <!--Data analytics and Data vizualization.-->
+💭 Currently learning about Python. <!--Data analytics and Data vizualization.-->
 
 📫 How to reach me **ashwork315@gmail.com**
 
