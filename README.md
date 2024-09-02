@@ -1,11 +1,11 @@
-<h2 align="center">Connect with me:</h2>
+<!--<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-sonkaria-074189235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-sonkaria-074189235/" height="60" width="80" /></a>
 
 </p>
 
 
-<!-- Profiles Viewa and Visitor Views -->
+<!-- Profiles Viewa and Visitor Views 
 <div align="center">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ashish2024">
@@ -26,13 +26,13 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ashish-sonkaria2511/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
   <!--<code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>-->
-  <!--<code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>-->
+  <!--<code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 
 <br>
 <br>
-<!-- Intro -->
+<!-- Intro 
 <h3 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -49,14 +49,14 @@
   <br>
   📚 I’m currently learning how to build Dynamic Website.
   <br>
-  <br>-->
+  <br>
   💬 Ask me anything about from <a href="https://github.com/ashish2024/ashish-pf1/issues" title="Issues">➡️</a>
   <br>
   <br>
   📫 How to reach me: <a href="mailto: ashish21152@gmail.com"> ✉️.
 </h3>
 
-!-- STATUS -->
+!-- STATUS 
 <h2 align="center"> Status </h2>
 
 <br>
@@ -85,4 +85,24 @@
   <br>
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=hacker-404-error&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
-</p>
+<!--</p>
+-->
+
+
+
+<!-- main prfoilr made on 2 sept 2024 start from here -->
+
+# 👋 Hi, I'm Ashish !
+
+👩🏻‍🎓 Studied [Computer Science] at Veltech University<br/>
+
+💭 Currently learning about Data analytics and data vizualization.
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2024)](https://github.com/ashish2024/github-readme-stats)
+
+
+
+
+
+
