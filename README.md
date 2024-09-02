@@ -7,20 +7,22 @@
 
 # 👋 Hi, I'm Ashish !
 
-👩🏻‍🎓 Studied [Computer Science] at Veltech University,Chennai. <br/>
+👩🏻‍🎓 Studied [Computer Science] at Veltech University, Chennai. <br/>
 
 💭 Currently learning about <!--Data analytics and Data vizualization.-->
 
 📫 How to reach me **ashwork315@gmail.com**
 
-# Connect with me.
+# Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashish-sonkaria2511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-sonkaria2511" height="30" width="40" /></a>
 
 
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2024&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashish2024/github-readme-stats)
+
+<br/>[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2024&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashish2024/github-readme-stats)<br/>
 
 
 
