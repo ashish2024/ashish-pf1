@@ -2,11 +2,22 @@
 
 <!-- main prfoilr made on 2 sept 2024 start from here -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2024&label=Profile%20views&color=0e75b6&style=flat" alt="ashish" /> </p>
+
+
 # 👋 Hi, I'm Ashish !
 
 👩🏻‍🎓 Studied [Computer Science] at Veltech University,Chennai. <br/>
 
-💭 Currently learning about Data analytics and Data vizualization.
+💭 Currently learning about <!--Data analytics and Data vizualization.-->
+
+📫 How to reach me **ashwork315@gmail.com**
+
+# Connect with me.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ashish-sonkaria2511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-sonkaria2511" height="30" width="40" /></a>
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2024&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ashish2024/github-readme-stats)
@@ -35,7 +46,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashish2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashish2024&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
